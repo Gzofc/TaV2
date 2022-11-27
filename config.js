@@ -66,7 +66,7 @@ global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
 
 //img nya
-global.thumb = 'https://telegra.ph/file/116c1a217394d408415c9.jpg'
+global.thumb = 'https://telegra.ph/file/e152478d75cdbd6542d9f.jpg'
 global.hwaifu = ['https://telegra.ph/file/a3bd959e8cf3131be2213.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/401c9730958bb82070104.jpg', 'https://telegra.ph/file/aca0a4f7a88329f4f26d7.jpg'

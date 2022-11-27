@@ -60,7 +60,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 𝐀𝐫𝐢𝐠𝐚𝐭𝐨𝐮!!!
 Contact person Owner:
 wa.me/6282214729677 (Owner)`
-let imgnya = 'https://telegra.ph/file/9b040d22ad59a69945fc9.jpg'
+let imgnya = 'https://telegra.ph/file/c804d7bb329364cf425d3.jpg'
   conn.sendButtonImg(m.chat, imgnya, duit, wm, 'OWNER', '.owner', ftoko, { gifPlayback: true, contextInfo: { externalAdReply: {title: namabot, body: date, sourceUrl: linkyt, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
 }
 

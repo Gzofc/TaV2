@@ -1,23 +1,23 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6282214729677"]
-global.mods = ["6282214729677"]
+global.owner = ["6283132749084"]
+global.mods = ["6283132749084"]
 
-global.namabot = 'KaylaBotz-v2' //nama BOT Lu
-global.packname = 'KaylaBotz-v2'
-global.author = '@PutraModz' //nama Owner
-global.ownernya = '6282214729677'
+global.namabot = 'LansXysV2' //nama BOT Lu
+global.packname = 'LansXysV2'
+global.author = 'あLansModz' //nama Owner
+global.ownernya = '6283132749084'
 global.linkyt = 'https://youtu.be/ZPikq1eHf1c' //link yt lu
 global.linkig = 'https://instagram.com/l4c1f2r' //link ig
-global.linkgh = 'https://github.com/Lucife-Putra' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By PutraModz`
-global.wm2 = 'KaylaBotz-V2' //ganti aja kalau mau
-global.wm = 'KaylaBotz-V2'
+global.linkgh = 'https://github.com/Lans-ofc' //link github lu
+global.titlebot = `⫹⫺ WhatsApp Bot | By LansMods`
+global.wm2 = 'LansXysV2 //ganti aja kalau mau
+global.wm = 'LansXysV2'
 global.colong1 = 'Ciss 📸'
-global.colong2 = 'PutraModzシ︎'
+global.colong2 = 'LansModsシ︎'
 global.kontak2 = [
-['6282214729677', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ tapi jangan aneh² ya anj', true],
+['6283132749084', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ tapi jangan aneh² ya anj', true],
 ]
 
 //Biodata OWNER Bre

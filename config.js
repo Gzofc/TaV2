@@ -92,7 +92,7 @@ global.versi = '2.0.0'
 
 //============= callButtons =============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 822 1472 9677'
+global.phn = '+62 831 3274 9084'
 
 //============= Games ================//
 global.benar = '_*Benar*_✅'

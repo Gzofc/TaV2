@@ -11,7 +11,7 @@ let str = `*Hai Ngab*`
 let isi =`ɪ'ᴍ xʏꜱʙᴏᴛ ʏᴀɴɢ ᴅɪ ʙᴜᴀᴛ ɢᴀᴋ ɴɪᴀᴛ ᴏʟᴇʜ ʟᴀɴꜱ ᴋᴀʀᴇɴᴀ ᴍᴀʟᴇꜱ ʀᴇᴄᴏᴅᴇ ᴊᴀᴅɪ ᴘᴀᴋᴇ ᴀᴊᴀ ᴀᴘᴀ ʏᴀɴɢ ᴀᴅᴀ ʏᴀʜ.\nKalau Ada Yg Error Bisa Langsung Report Ke Owner.\n #Owner Ganteng🗿`
 let wibu = `https://api-reysekha.herokuapp.com/api/random/cosplay?apikey=apirey` 
 let thumb = await(await fetch(wibu)).buffer()
-conn.send3ButtonImg(m.chat, `https://telegra.ph/file/116c1a217394d408415c9.jpg`, str, isi, 'Menu', '.command', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+conn.send3ButtonImg(m.chat, `https://telegra.ph/file/03e30d105286d420bf466.jpg`, str, isi, 'ListMenu', '.command', 'Pemilik', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://instagram.com/lans.xys',
     mediaType: 2, 
     description: urlnya,
